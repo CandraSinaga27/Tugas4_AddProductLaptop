@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81a7c98d-234f-47e7-ba14-1ad65b469c38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/008cd435-59f9-48fa-979a-fd058c939b1f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/18fb80f3-44cb-41a1-b5fc-98df3b043840-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1b66cdc8-6284-4391-b1d0-309fd78dfbcc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/27be9fd6-533e-49c5-a7d9-d5d730ed1319-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/30d3b727-a39d-4149-930f-7ba368c691b5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/36e92c36-8d53-45fe-af54-766ebeb58655-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/55f0e514-d9cd-4044-86c8-3fbe7274f6ed-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/58dbc9e0-79d1-4082-b8fa-52be630bbb98-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5a6d55b7-8be3-416d-99ad-a9aa76c38081-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5ac97e59-1afc-45c0-ae2e-7b9c366ea6e7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6365ac53-fb63-4416-a4ab-d668e11625e8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/662a535f-ac3b-4eca-a877-f1fef18d6e70-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6ece6c6b-e7f7-4358-9625-486a05d6bdb6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/76a0dc98-b719-4788-a560-43167e540365-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7aba617f-4171-4293-89b0-c8acf3166c19-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/80960468-35b0-4931-81d4-188973788366-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8476f878-55be-4ed1-8d0e-e12841f9ebc1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8bac554d-5a5e-4976-a369-74ef96a619fe-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9a74ae90-3134-44ba-99a3-e69956b4dcdb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a400aecb-2677-4b2a-ba7b-20ad85902491-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a5959ec2-e8a4-45cf-aeae-6f46be529617-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aae7d5a8-5290-4f64-a4d5-159452744a00-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/abc2b1ad-bbe9-4fba-b9d9-e53ae5a78189-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/afc40214-c3ea-4358-b5a9-c9091339c76a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b306691c-08c2-4831-acdb-fa4bac4d7a47-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b50fcac1-29aa-4bee-8253-cb57c4ee3f36-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b891bcdb-7ab6-4c58-a637-903b8af84d32-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bce1e2a1-ba9a-4bc2-9e02-7b8ee4a78715-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c13055a8-d434-456f-a626-7ec826997818-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ca0f6e0e-12b6-4711-93c8-6a3b32056c2d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cd3b09d4-e1ea-4cb2-8bd4-cbb2a4e6f9d0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e03d47ad-827a-4c44-91a1-c97a0a716e85-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e28f2e0e-c73a-4e16-b739-96d908ddb338-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e3ef3c8a-698d-4ec1-91fc-7f9f8a00c00b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e780d420-543e-4792-9186-b2ed97bbda9a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eb52b8a9-cdde-4138-830c-e334be1bd86d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fc870f39-3a23-4c51-bb6c-676c0bf6d7f6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fdf03d3d-6ca8-48a9-89cf-03dbf44fb9e8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Database/DatabaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FolderTest/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FolderTest/GetProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dd0Y964vIyOnDpGKT5kTW4q1l8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/chandra.sinaga/Documents/TestSeleniumBasic/AutomationAdvancedExercise_Selenium&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.GetProduct.AddProductLaptop">
+    <configuration name="DatabaseTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Database" />
+      <option name="MAIN_CLASS_NAME" value="Database.DatabaseTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FolderTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FolderTest" />
+      <option name="MAIN_CLASS_NAME" value="FolderTest.GetProduct" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetProduct.AddProductLaptop" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FolderTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FolderTest" />
+      <option name="MAIN_CLASS_NAME" value="FolderTest.GetProduct" />
+      <option name="METHOD_NAME" value="AddProductLaptop" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetProduct.getPrice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FolderTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FolderTest" />
+      <option name="MAIN_CLASS_NAME" value="FolderTest.GetProduct" />
+      <option name="METHOD_NAME" value="getPrice" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetProduct.testSignUp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FolderTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FolderTest" />
+      <option name="MAIN_CLASS_NAME" value="FolderTest.GetProduct" />
+      <option name="METHOD_NAME" value="testSignUp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GetProduct.AddProductLaptop" />
+        <item itemvalue="TestNG.GetProduct.getPrice" />
+        <item itemvalue="TestNG.GetProduct.testSignUp" />
+        <item itemvalue="TestNG.DatabaseTest" />
+        <item itemvalue="TestNG.GetProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81a7c98d-234f-47e7-ba14-1ad65b469c38" name="Changes" comment="" />
+      <created>1710322697027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710322697027</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
